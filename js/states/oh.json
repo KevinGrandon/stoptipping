@@ -1,0 +1,14 @@
+[
+	{
+		"category": ["restaurant"],
+		"name": "Casa Nueva",
+		"address": {
+			"street": "4 W. State Street",
+			"city": "Athens",
+			"zip": "45701",
+			"phone": "740.592.2016"
+		},
+		"website": "http://www.casanueva.com/"
+	}
+]
+

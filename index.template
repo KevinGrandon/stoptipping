@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>StopTipping.us | Support restaurants and services which don't accept tips</title>
+	<link href="http://twitter.github.io/bootstrap/assets/css/bootstrap.css" rel="stylesheet">
+	<script defer src="js/main.js"></script>
+</head>
+<body>
+	<div class="container">
+		<h1>Find places that don't tip!</h1>
+		<div id="content">
+<!--content-->
+		</div>
+	</div>
+</body>
+</html>

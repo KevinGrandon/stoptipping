@@ -1,0 +1,13 @@
+[
+	{
+		"category": ["restaurant", "bar"],
+		"name": "Black Star Co-op",
+		"address": {
+			"street": "7020 Easy Wind Dr.",
+			"city": "Austin",
+			"zip": "78752",
+			"phone": "(512) 452-BEER"
+		},
+		"website": "http://www.blackstar.coop"
+	}
+]

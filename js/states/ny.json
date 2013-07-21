@@ -1,0 +1,25 @@
+[
+	{
+		"category": ["restaurant"],
+		"name": "Per Se",
+		"address": {
+			"street": "10 Columbus Cir",
+			"city": "New York",
+			"zip": "10019",
+			"phone": "212-823-9335"
+		},
+		"website": "http://www.perseny.com/",
+		"additionalGratuity": true
+	},
+	{
+		"category": ["restaurant"],
+		"name": "Sushi Yasuda",
+		"address": {
+			"street": "204 East 43rd Street",
+			"city": "New York",
+			"zip": "10017",
+			"phone": "212-972-1001"
+		},
+		"website": "http://www.sushiyasuda.com/"
+	}
+]

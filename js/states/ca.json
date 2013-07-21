@@ -1,0 +1,37 @@
+[
+ 	{
+		"category": ["restaurant"],
+		"name": "Chez Panisse",
+		"address": {
+			"street": "1517 Shattuck Ave",
+			"city": "Berkeley",
+			"zip": "94709",
+			"phone": "510-548-5525"
+		},
+		"website": "http://www.chezpanisse.com",
+		"additionalGratuity": true
+	},
+	{
+		"category": ["restaurant"],
+		"name": "Sauce on Hampton",
+		"address": {
+			"street": "259 Hampton Dr Ste B",
+			"city": "Venice",
+			"zip": "90293",
+			"phone": "310-399-5400"
+		},
+		"website": "http://sauceonhampton.com/"
+	},
+	{
+		"category": ["restaurant"],
+		"name": "The French Laundry",
+		"address": {
+			"street": "6640 Washington St",
+			"city": "Yountville",
+			"zip": "94599",
+			"phone": "707-944-2380"
+		},
+		"website": "http://www.frenchlaundry.com/",
+		"additionalGratuity": true
+	}
+]
